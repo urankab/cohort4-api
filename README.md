@@ -1,4 +1,4 @@
-#EvolveU API Server
+# EvolveU API Server
 
 The API server is a utility within the repository. It was built to assist students with the concept of using an API to maintain data on a server. In this case, the data is just "state" as it is not persisted in a long term data store. The data is maintained in state and will be lost when you shutdown the server.
 
