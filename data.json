@@ -1,0 +1,7 @@
+{
+    [
+        { "name": "Calgary", "latitude": 51.05, "longitude": -114.05, 'population': 100, "key": 1 },
+        { "name": "Edmonton", "latitude": 53.55, "longitude": -113.49, 'population': 150, "key": 2 },
+        { "name": "Red Deer", "latitude": 52.28, "longitude": -113.81, 'population': 3000, "key": 3 }
+    ]
+}
